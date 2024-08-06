@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"bea29020d83727e274f3ddfa1c5327f0","lockfileHash":"31dca2077b196a725e5badb4521fcf73","guessedImports":["fluent-ffmpeg","express","youtube-dl-exec","ffmpeg-static"],"guessedImportsHash":"a4ec04359d064a45c752a99bc3187cad"},"python3-poetry":{}}}
